@@ -9,9 +9,9 @@
 <head>
 	<title>Home page</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="css/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/font-awesome.min.css">
   <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 
@@ -35,7 +35,7 @@
 <!-- Top container -->
 <div class="w3-bar w3-top w3-black w3-large" style="z-index:4">
   <!-- <span class="w3-bar-item w3-center">BusinessRecords</span> -->
-  <span class="w3-bar-item w3-right"><i class="fa fa-handshake-o"></i> BusinessRecords</span>
+  <span class="w3-bar-item w3-right"><i class="fa fa-arrows"></i> BusinessRecords</span>
 </div>
    <?php
      //require'includes/header.php';
